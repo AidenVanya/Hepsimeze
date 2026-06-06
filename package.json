@@ -1,0 +1,16 @@
+{
+  "name": "hepsimeze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^19.2.0",
+    "owl.carousel": "^2.3.4"
+  }
+}
